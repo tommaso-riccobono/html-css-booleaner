@@ -4,6 +4,10 @@
     background-color: skyblue;   
 }
 
+mark {
+    background-color: #ddff8f;
+  }
+
 h1 {
     font-family: 'Playfair Display', serif;
     font-size: 44px;
@@ -26,13 +30,15 @@ td {
 }
 
 .img1 {
-    background: url(../img/monitor.jpg);
+    background: url(../img/monitor.jpg) no-repeat;
+    background: cover;
     width: 300px;
     height: 200px;
 }
 
 .img2 {
-    background: url(../img/graph.jpg);
+    background: url(../img/graph.jpg) no-repeat;
+    background: cover;
     width: 300px;
     height: 200px;
 }
