@@ -1,0 +1,38 @@
+.logo {
+    height: 180px;
+    background: url("../img/pattern.png");
+    background-color: skyblue;   
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 44px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    text-align: left;
+    background-color: dodgerblue;
+}
+
+
+td {
+    height: 70px;
+    text-align: left;
+}
+
+.img1 {
+    background: url(../img/monitor.jpg);
+    width: 300px;
+    height: 200px;
+}
+
+.img2 {
+    background: url(../img/graph.jpg);
+    width: 300px;
+    height: 200px;
+}
